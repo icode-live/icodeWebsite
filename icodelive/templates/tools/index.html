@@ -1,0 +1,70 @@
+{% extends 'site_base.html' %}
+{% load staticfiles %}
+{% block content %}
+
+<section class="color">
+<div class="container">
+<h2>
+icode
+</h2>
+is dedicated to the art and technique of Spotcoding
+<blockquote>
+All Work involves a rhythm _ a balance _<br />
+between focus on the work<br />
+and focus on your tools.<br />
+<cite>_<a href="#">Brandon Rhodes</a></cite>
+</blockquote>
+<h3>
+Sharpen you're tools
+</h3>
+<p>
+<p>The tool section consist of <em>memos</em> or cheatsheets followed by selected tutorials or follow along workshop.</p>
+<p>These memos are for your convenience, and represent the bare minimun to know and use. You are encouraged to refer to the man and info pages and online documentation whenever you dedicate sometime to master your tools.<br />
+ex:</p>
+<pre><code>man find
+info grep
+google vim registers</code></pre>
+</p>
+</div>
+</section>
+<section>
+<div class="container">
+<h1 id="working-at-the-console">Working at the Console</h1>
+<h2 id="working-in-the-terminal">working in the terminal</h2>
+<p><a href="http://lifehacker.com/5743814/become-a-command-line-ninja-with-these-time-saving-shortcuts">Whitson Gordon</a></p>
+<p><code>Up/Down Arrows</code>: The up and down arrows on your keyboard move through your last used commands.<br />
+<code>Ctrl+Left</code> and <code>Ctrl+Right</code>: jumps between arguments in your command line<br />
+<code>Ctrl-a</code> (or Home) and <code>Ctrl-e</code> (or End): jump your cursor to the beginning and the end of the currently typed command line</p>
+<p><code>Ctrl+u</code>: delete the line from cursor position to begin of the line.<br />
+<code>Ctrl+k</code>: delete the line from cursor position to the end of the line.<br />
+<code>Ctrl+w</code>: This deletes the word before the cursor only.<br />
+<code>Ctrl+r</code>: This lets you search your command history for something specific</p>
+<h2 id="working-with-the-command-shell">working with the command shell</h2>
+<p><code>Tab</code>: to autocomplete a text</p>
+<p><code>cd</code> : got to home directory<br />
+<code>cd -</code> : go to previous working directory</p>
+<p><code>!!</code> : represents the last command you ran. ex <code>sudo !!</code><br />
+<code>!$</code> : represents the arguments from your last command<br />
+<code>!</code> : run last specified command. ex <code>!cat</code> run last command that used <em>cat</em><br />
+<code>!</code>command<code>:p</code> : show dont run last command use. ex: <code>!cat:p</code> see what the last cat command was.</p>
+<p><code>^</code>mispelledCmd<code>^</code>Cmd : find the first instance of mispelledCmd in the last run command and replace it with Cmd. ex <code>^nanp^nano</code></p>
+<p><code>history</code> then <code>!</code>number : will repeat the command in your history with the specified number ex: <code>!455</code></p>
+<p><code>{}</code> : perform batch operations on multiple versions of a file: ex <code>mv /path/to/file.txt /path/to/file.xml</code><br />
+becomes <code>mv /path/to/file.{txt,xml}</code><br />
+Make backup <code>cp /etc/rc.conf{,-old}</code><br />
+Restore backup <code>mv /etc/rc.conf{-old,}</code><br />
+Make multiple directories <code>mkdir myfolder{1,2,3}</code></p>
+<h2 id="working-with-commandline-tools">working with commandline tools</h2>
+<h3 id="find">find</h3>
+<p>find searches for files in a directory hierarchy</p>
+<p>Find Files : <code>find . –name &quot;*.txt&quot; –mtime 5</code> find all files with .txt in the name that were modified in the last 5 days.</p>
+<h3 id="grep">grep</h3>
+<p>grep searches the named input FILEs for lines containing a match to the given PATTERN.</p>
+<p>Find a Text String in Files: <code>grep –ir &quot;text string&quot; *</code></p>
+</div>
+<!-- container -->
+</section>
+<!-- section -->
+
+{% endblock content %}
+
