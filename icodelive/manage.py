@@ -39,6 +39,10 @@ def vim(request):
 def git(request):
     return render(request, 'tools/git.html')
 
+## -- learn
+def learn(request):
+    return render(request, 'learn/index.html')
+
 ## -- practice
 def practice(request):
     return render(request, 'practice/index.html')
@@ -56,6 +60,8 @@ urlpatterns = (  # '',
         url(r'^concept/', concept, name="concept"),
         ## -- tools
         url(r'^tools/', tools, name="tools"),
+        ## -- learn
+        url(r'^learn/', learn, name="learn"),
         ## -- practice
         url(r'^practice/', practice, name="practice")
 )

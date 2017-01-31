@@ -1,99 +1,34 @@
+<h3>Offline activities</h3>
+
+<h3>Online activities</h3>
+
+[check this](http://macgyverdev.blogspot.ca/2014/04/become-better-programmer-with.html)
+
+<h3>Hybrid activities</h3>
+
+<h4>SpotCoding</h4>
+<p>
+Spot coding is a performing arts form and a creativity outlet for
+
+and teaching technique centred upon the writing of source code and the use of interactive programming in a scripted
+and improvised way. SpotCoding can be viewed as a Performance coding session and a performing arts form and a creativity technique centred upon the writing of source code and the
+use of interactive programming in a scripted rehearsed show with strong  improvised addings.
+</p>
+
 ## [Let's Get started](../concept/index.html)
 
-thinking efficiency: Design and thought process and generally offline skills
+summary concept
 
-coding proficiency:
+summary tools
 
-> math is no longer about correct and incorrect answers.  It's also about how responses and results can be defended, explained, and justified using mathematical thinking.
-> _[Erik M. Francis, M.Ed., M.S.](https://www.linkedin.com/pulse/doing-math-vs-thinking-mathematically-whats-erik-m-francis)
+summary learn
 
-## icode inspiration
+level 0 the apprentice learner (Problem Solving, tools and Computer Language)
+level 1 the learning apprentice (Computer Science, Software Design)
+level 2 the practicing learner (demo and live-coding videos)
 
-icode gets its inspiration from the following sources
+summary practice
 
-### Offline skills:
-
-(critical, mathematical, computational) Thinking
-
-#### Deliberate Thinking
-
-#### Efficient Thinking
-
-#### Mathematical Thinking
-
-#### Computational Thinking
-
-### Online skills:
-
-SpotCoding; impromptu semi-rehearsed live performance
-
-#### Live coding
-
-Live coding is a performing arts form and a creativity technique centred upon the writing of source code and the use of interactive programming in an improvised way.
-
-#### Interactive coding
-
-Interactive coding also called Interactive programming is the procedure of writing parts of a program while it is already active. This focuses on the program text as the main interface for a running process, rather than an interactive application, where the program is designed in development cycles and used thereafter (usually by a so-called "user", in distinction to the "developer"). Consequently, here, the activity of writing a program becomes part of the program itself.
-
-#### Competitive coding
-
-Competitive coding.
-
-#### Show and Tell coding
-
-Convention, Academic, tutorial and workshop coding in various Programming Languages
-
-##### Python
-
-David Beazley
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/MCs5OvhV9S4?html5=true" frameborder="0" width="560" height="315"></iframe>
-</div>
-
-Godwin
-
-##### Javascript
-
-david geary
-
-keith peters : condingMath
-
-<div class="video-container">
-<iframe src="http://www.youtube.com/embed/zm9bqSSiIdo?html5=true" frameborder="0" width="560" height="315"></iframe>
-</div>
-
-
-lea verou
-https://www.youtube.com/watch?v=eVnUDTtOLE0
-
-
-
-##### Ruby
-
-##### Java
-
-##### C/C++
-
-##### Closure
-
-##### Story telling
-
-Story telling in a coding context.
-
-Brandon Rhodes
-
-... ---
-
-<!-- NOT FOR YOUTUBE VIMEO div class="video-container">
-  <video controls="controls" allowfullscreen="true" poster="../../static/img/icode.lerina_trans120.png">
-    <source src="https://www.youtube.com/embed/zm9bqSSiIdo?html5=true" type="video/mp4">
-    <p>Your browser does not support the video element. Update your browser.</p>
-  </video>
-</div -->
-
-... ---
-
-
+First thing first: Have a plan, know your plan so
 [Let's Get started ->](../concept/index.html)
 

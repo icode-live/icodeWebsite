@@ -47,3 +47,10 @@ iterative periodes of singletask step by step actions until all tasks are crosse
 # Build Velocity
 
 # Measure Productivity  
+
+# 
+
+Disobedience and unruliness is often to root of chaos. However, 
+disobedience and unruliness <em>springing from knowledge</em> 
+is the <strong>spark of innovation</strong>.
+

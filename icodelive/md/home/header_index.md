@@ -1,27 +1,36 @@
 
 <section class="color"><div class="container">
+
+<h2>Learn to code?</h2>
+Code, coding, and programming means different things to different people.
+After all, coding is hard, right? It takes time, effort, practice, real projects, trials 
+and triumph.   
+"Everybody needs to learn Code!" ... how are we to understand this rallying call?
+
+Perhaps it is not a misguided or misguiding movement, 
+<strong>if</strong> we understand coding as <em>a way of thinking and problem solving</em>, 
+rather than just the relm of syntaxes, languages features and jobs of the future.
+
 <h2>iCODE</h2>
-is dedicated to the Art of <em>Thinking</em>, the mastery of your creative <em>tools</em>
-the science of <em>computer programming</em> and the techniques and skills of <em>coding</em>.
+Let's embrace the Art of <em>Thinking</em> and the skill of <strong><em>problem decomposition</em></strong>. 
 
-More particularly, iCODE ... it is good to practice problems solving and writing code. It is like daily workout. The programmer who wrote 1000 programs will be always better than one who wrote only 10
-<h3>Offline activities</h3>
+Let's values the <strong>mastery</strong> of your creative <em>tools</em>, 
+the <strong>science</strong> of <em>computer programming</em> 
+and the <strong>techniques and skills</strong> of <em>coding</em>.
 
-<h3>Online activities</h3>
+To these ends, let's use the web to become better at figuring out stuff for yourself.
+<br/>
+Let's practice problems solving and writing code.
+<br/> 
+Let's make it a regular workout. 
 
-[check this](http://macgyverdev.blogspot.ca/2014/04/become-better-programmer-with.html)
+The programmer who wrote 100 programs will always be better than one who wrote only 1.
+The programmer who contributed to 1 opensource project will always better be than one 
+who wrote 1000 personal projects.
 
-<h3>Hybrid activities</h3>
-
-<h4>SpotCoding</h4>
-<p>
-Spot coding is a performing arts form and a creativity outlet for
-
-and teaching technique centred upon the writing of source code and the use of interactive programming in a scripted
-and improvised way. SpotCoding can be viewed as a Performance coding session and a performing arts form and a creativity technique centred upon the writing of source code and the
-use of interactive programming in a scripted rehearsed show with strong  improvised addings.
-
-</p>
+Whether you are a veteran programmer or a new coder, challenge yourself to Know what you are doing, why it works and why that way.
+Think better, on purpose. Take the time to go fast ... 
+<a href="/concept/">welcome to iCODE ::..</a>
 </div></section>
 <section>
 <div class="container">
